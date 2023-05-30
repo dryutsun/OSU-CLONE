@@ -1,0 +1,9 @@
+canvas {
+	outline: 1px dotted;
+	cursor: cell;
+}
+#MenuOptions {
+	flex-direction: row;
+	justify-items: center;
+	list-style-type: none;
+}
